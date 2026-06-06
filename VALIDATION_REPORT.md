@@ -1,0 +1,136 @@
+# Validation Report - exercise-while-watching-tv
+
+Generated: 2026-06-05T14:22:26.296424
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: Proven Strategies for Future of Beginner Exercise While Watching TV
+- ✓ Article word count OK: The Ultimate Guide to Beginner Exercise While Watching TV for Beginners
+- ✓ Article word count OK: The Best Resources for Beginner Exercise While Watching TV Tips and Best Practices
+- ✓ Article word count OK: Beginner Exercise While Watching TV Tips and Best Practices 101: Complete Beginner's Guide
+- ✓ Article word count OK: Beginner Exercise While Watching TV 101: Complete Beginner's Guide
+- ✓ Article word count OK: Beginner Exercise While Watching TV: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Why Beginner Exercise While Watching TV for Beginners is Trending in 2026
+- ✓ Article word count OK: Beginner Exercise While Watching TV Tips and Best Practices 101: Complete Beginner's Guide
+- ✓ Article word count OK: Understanding Common Mistakes in Beginner Exercise While Watching TV: A Deep Dive
+- ✓ Article word count OK: Understanding Beginner Exercise While Watching TV Tips and Best Practices: A Deep Dive
+- ✓ Article word count OK: Beginner Exercise While Watching TV: Everything You Need to Know: From Beginner to Expert
+- ✓ Article word count OK: Why Beginner Exercise While Watching TV is Trending in 2026
+- ✓ Article word count OK: Everything You Need to Know About Beginner Exercise While Watching TV Tips and Best Practices
+- ✓ Article word count OK: Advanced Beginner Exercise While Watching TV Techniques: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Ultimate Guide to Beginner Exercise While Watching TV
+- ✓ Article word count OK: Understanding Beginner Exercise While Watching TV: Everything You Need to Know: A Deep Dive
+- ✓ Article word count OK: The Hidden Secrets of Beginner Exercise While Watching TV
+- ✓ Article word count OK: Essential Beginner Exercise While Watching TV: Everything You Need to Know Techniques You Should Know
+- ✓ Article word count OK: Essential Advanced Exercise While Watching TV Techniques You Should Know
+- ✓ Article word count OK: The Ultimate Guide to Advanced Exercise While Watching TV
+- ✓ Article word count OK: Advanced Exercise While Watching TV: Must-Read Insights and Reviews
+- ✓ Article word count OK: Advanced Advanced Exercise While Watching TV Techniques: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Advanced Exercise While Watching TV: Must-Read Insights and Reviews
+- ✓ Article word count OK: Mastering The History of Advanced Exercise While Watching TV in Easy Steps
+- ✓ Article word count OK: Mastering Advanced Exercise While Watching TV in Easy Steps
+- ✓ Article word count OK: Common Mistakes in Advanced Exercise While Watching TV: Must-Read Insights and Reviews
+- ✓ Article word count OK: Advanced Exercise While Watching TV Tips and Best Practices 101: Complete Beginner's Guide
+- ✓ Article word count OK: Advanced Advanced Exercise While Watching TV Techniques 101: Complete Beginner's Guide
+- ✓ Article word count OK: Advanced Exercise While Watching TV: Everything You Need to Know: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Mastering Advanced Exercise While Watching TV Tips and Best Practices in Easy Steps
+- ✓ Article word count OK: Advanced Exercise While Watching TV: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Proven Strategies for Advanced Exercise While Watching TV
+- ✓ Article word count OK: Advanced Exercise While Watching TV in 2026: Current Trends 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Future of Advanced Exercise While Watching TV: What to Expect
+- ✓ Article word count OK: The Hidden Secrets of Advanced Exercise While Watching TV Tips and Best Practices
+- ✓ Article word count OK: Mastering Advanced Exercise While Watching TV in 2026: Current Trends in Easy Steps
+- ✓ Article word count OK: Proven Strategies for Exercise While Watching TV Tips
+- ✓ Article word count OK: Proven Strategies for Future of Exercise While Watching TV Tips
+- ✓ Article word count OK: Everything You Need to Know About Future of Exercise While Watching TV Tips
+- ✓ Article word count OK: Everything You Need to Know About Exercise While Watching TV Tips
+- ✓ Article word count OK: Everything You Need to Know About Exercise While Watching TV Tips in 2026: Current Trends
+- ✓ Article word count OK: Mastering Future of Exercise While Watching TV Tips in Easy Steps
+- ✓ Article word count OK: Essential Exercise While Watching TV Tips for Beginners Techniques You Should Know
+- ✓ Article word count OK: The Hidden Secrets of The History of Exercise While Watching TV Tips
+- ✓ Article word count OK: The Future of Future of Exercise While Watching TV Tips: What to Expect
+- ✓ Article word count OK: Exploring the World of Exercise While Watching TV Tips in 2026: Current Trends
+- ✓ Article word count OK: Advanced Exercise While Watching TV Tips Techniques: Must-Read Insights and Reviews
+- ✓ Article word count OK: Understanding The History of Exercise While Watching TV Tips: A Deep Dive
+- ✓ Article word count OK: Common Mistakes in Exercise While Watching TV Tips: Must-Read Insights and Reviews
+- ✓ Article word count OK: Exercise While Watching TV Tips: Everything You Need to Know: From Beginner to Expert
+- ✓ Article word count OK: Exercise While Watching TV Tips in 2026: Current Trends: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Common Mistakes in Exercise While Watching TV Tips: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Best Resources for Advanced Exercise While Watching TV Tips Techniques
+- ✓ Article word count OK: Why Exercise While Watching TV Tips Tips and Best Practices is Trending in 2026
+- ✓ Article word count OK: Everything You Need to Know About Exercise While Watching TV History
+- ✓ Article word count OK: Mastering Exercise While Watching TV History in 2026: Current Trends in Easy Steps
+- ✓ Article word count OK: Exploring the World of Exercise While Watching TV History for Beginners
+- ✓ Article word count OK: Everything You Need to Know About Exercise While Watching TV History for Beginners
+- ✓ Article word count OK: Mastering Future of Exercise While Watching TV History in Easy Steps
+- ✓ Article word count OK: Exercise While Watching TV History Tips and Best Practices 101: Complete Beginner's Guide
+- ✓ Article word count OK: Future of Exercise While Watching TV History: From Beginner to Expert
+- ✓ Article word count OK: Proven Strategies for Exercise While Watching TV History: Everything You Need to Know
+- ✓ Article word count OK: The Hidden Secrets of Exercise While Watching TV History
+- ✓ Article word count OK: Exercise While Watching TV History Tips and Best Practices: From Beginner to Expert
+- ✓ Article word count OK: Mastering Future of Exercise While Watching TV History in Easy Steps
+- ✓ Article word count OK: The Ultimate Guide to Exercise While Watching TV History for Beginners
+- ✓ Article word count OK: The Best Resources for Exercise While Watching TV History
+- ✓ Article word count OK: The Future of Exercise While Watching TV History Tips and Best Practices: What to Expect
+- ✓ Article word count OK: The Hidden Secrets of Common Mistakes in Exercise While Watching TV History
+- ✓ Article word count OK: Essential Future of Exercise While Watching TV History Techniques You Should Know
+- ✓ Article word count OK: Essential Exercise While Watching TV History for Beginners Techniques You Should Know
+- ✓ Article word count OK: Why Exercise While Watching TV History Tips and Best Practices is Trending in 2026
+- ✓ Article word count OK: The Future of Trending Exercise While Watching TV: What to Expect
+- ✓ Article word count OK: The Hidden Secrets of Trending Exercise While Watching TV for Beginners
+- ✓ Article word count OK: The Future of Trending Exercise While Watching TV: What to Expect
+- ✓ Article word count OK: Everything You Need to Know About Common Mistakes in Trending Exercise While Watching TV
+- ✓ Article word count OK: The Hidden Secrets of Trending Exercise While Watching TV Tips and Best Practices
+- ✓ Article word count OK: Essential Trending Exercise While Watching TV Techniques You Should Know
+- ✓ Article word count OK: Proven Strategies for The History of Trending Exercise While Watching TV
+- ✓ Article word count OK: Why Trending Exercise While Watching TV Tips and Best Practices is Trending in 2026
+- ✓ Article word count OK: Everything You Need to Know About Trending Exercise While Watching TV
+- ✓ Article word count OK: Why Trending Exercise While Watching TV Tips and Best Practices is Trending in 2026
+- ✓ Article word count OK: The Ultimate Guide to Trending Exercise While Watching TV Tips and Best Practices
+- ✓ Article word count OK: Trending Exercise While Watching TV in 2026: Current Trends 101: Complete Beginner's Guide
+- ✓ Article word count OK: Everything You Need to Know About Trending Exercise While Watching TV: Everything You Need to Know
+- ✓ Article word count OK: The Ultimate Guide to Common Mistakes in Trending Exercise While Watching TV
+- ✓ Article word count OK: The Ultimate Guide to Advanced Trending Exercise While Watching TV Techniques
+- ✓ Article word count OK: Essential Trending Exercise While Watching TV Techniques You Should Know
+- ✓ Article word count OK: Trending Exercise While Watching TV 101: Complete Beginner's Guide
+- ✓ Article word count OK: Trending Exercise While Watching TV: Everything You Need to Know: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Exploring the World of Exercise While Watching TV Tutorials Tips and Best Practices
+- ✓ Article word count OK: The Future of Exercise While Watching TV Tutorials: Everything You Need to Know: What to Expect
+- ✓ Article word count OK: Mastering Exercise While Watching TV Tutorials in Easy Steps
+- ✓ Article word count OK: Understanding Advanced Exercise While Watching TV Tutorials Techniques: A Deep Dive
+- ✓ Article word count OK: Why The History of Exercise While Watching TV Tutorials is Trending in 2026
+- ✓ Article word count OK: Future of Exercise While Watching TV Tutorials 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Future of Common Mistakes in Exercise While Watching TV Tutorials: What to Expect
+- ✓ Article word count OK: Proven Strategies for Exercise While Watching TV Tutorials for Beginners
+- ✓ Article word count OK: Understanding Exercise While Watching TV Tutorials: A Deep Dive
+- ✓ Article word count OK: Exploring the World of The History of Exercise While Watching TV Tutorials
+- ✓ Article word count OK: Everything You Need to Know About Common Mistakes in Exercise While Watching TV Tutorials
+- ✓ Article word count OK: The History of Exercise While Watching TV Tutorials: Must-Read Insights and Reviews
+- ✓ Article word count OK: Exercise While Watching TV Tutorials in 2026: Current Trends: From Beginner to Expert
+- ✓ Article word count OK: Exploring the World of Exercise While Watching TV Tutorials
+- ✓ Article word count OK: The Hidden Secrets of Exercise While Watching TV Tutorials
+- ✓ Article word count OK: Mastering The History of Exercise While Watching TV Tutorials in Easy Steps
+- ✓ Article word count OK: The Hidden Secrets of Future of Exercise While Watching TV Tutorials
+- ✓ Article word count OK: The Ultimate Guide to Exercise While Watching TV Tutorials: Everything You Need to Know
+- ✓ Ad configuration validated
